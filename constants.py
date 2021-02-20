@@ -1,0 +1,17 @@
+DECK_NUMBER = 4
+CARD_NUMBER = 8
+SUFFICIENT_DATA = 10
+RATING_KEY = 'rating'
+HASH_KEY = 'hash'
+CARD_LIST_KEY = 'card_list'
+LOG_KEY = 'log'
+INITIAL_KEY = 'initial'
+EXCLUDED_KEY = 'excluded'
+SOURCE_KEY = 'source'
+DEFAULT_SECTION = 'DEFAULT'
+INITIAL_SECTION = 'INITIAL'
+DECKS_TXT = 'decks.txt'
+CONFIG_INI = 'config.ini'
+SPACE = ' '
+EMPTY = ''
+NEWLINE = '\n'
